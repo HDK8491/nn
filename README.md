@@ -49,7 +49,7 @@
   <img alt="Top Langs" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HDK8491&layout=compact&hide_border=true&bg_color=00000000&text_color=667799&custom_title=Top+Languages&title_color=388286">
 
 <!--Statistics: end-->
-
+[![wakatime](https://wakatime.com/badge/user/018de01b-1c88-4698-b625-b3f77f8af0f7.svg)](https://wakatime.com/@018de01b-1c88-4698-b625-b3f77f8af0f7)
 <!--More Details: start-->
 
 <img src="img/more_things.png">
