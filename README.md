@@ -65,7 +65,7 @@
 <img src="img/tech_stack.png">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,figma,docker,blender,linkedin,discord,bootstrap,java,dart,python,django,kotlin,bash,materialui,md,express,md,matlab,mysql,gradle,flutter,git,github,firebase,nestjs,heroku,netlify,androidstudio,vscode,vim,idea,ai,ps,linux,nextjs,react,nodejs,cpp,c,threejs,mongodb,graphql,kali,php,postman,powershell,pr,prisma,redis,redux,stackoverflow,sublime,supabase,svg,tailwind,
-ts,ubuntu,unity,vite,windows,npm&perline=10">
+ts,ubuntu,unity,vite,windows,npm&perline=10"/>
 
 <!--Tech stack: end-->
 
