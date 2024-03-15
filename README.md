@@ -64,8 +64,7 @@
 
 <img src="img/tech_stack.png">
 
-<img src="https://skillicons.dev/icons?i=
-ts,ubuntu,unity,vite,windows,npm&perline=10">
+
 
 <!--Tech stack: end-->
 
