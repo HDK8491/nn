@@ -42,7 +42,7 @@
 
 
 <p style="font-family: Arial, sans-serif; font-size: 16px; color: #333; line-height: 1.6;">
-    My name is <strong>Hardik Bhammar</strong>. I'm a passionate developer from India, with a keen interest in web and mobile development. Currently, I'm diving deep into <em>React Native</em>. Besides coding, I'm also adept at graphic design. In my free time, you'll often find me engrossed in a game of chess or immersed in a good book.
+    I'm a passionate developer from India, with a keen interest in web and mobile development. Currently, I'm diving deep into <em>React Native</em>. Besides coding, I'm also adept at graphic design. In my free time, you'll often find me engrossed in a game of chess or immersed in a good book.
 </p>
 
 
